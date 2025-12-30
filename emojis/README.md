@@ -1,35 +1,54 @@
 # Here are our bot template custom emojis
 
-## Economy Emojis:
+## Custom Economy Phone Apps Emojis:
 
-### Balance Command Title:
+### YDCash:
 
-<img src="./BalanceTitle.png" width="25px" height="25px" />
+<img src="./Economy/Phone/Apps/YDCash.png" width="25px" height="25px" />
+
+### YDPay:
+
+<img src="./Economy/Phone/Apps/YDPay.png" width="25px" height="25px" />
+
+### Store:
+
+<img src="./Economy/Phone/Apps/Store.png" width="25px" height="25px" />
 
 ### Bank:
 
-<img src="./Bank.png" width="25px" height="25px" />
+<img src="./Economy/Phone/Apps/Bank.png" width="25px" height="25px" />
+
+## Economy Emojis:
+
+
+### Balance Command Title:
+
+<img src="./Economy/BalanceTitle.png" width="25px" height="25px" />
+
+### Bank:
+
+<img src="./Economy/Bank.png" width="25px" height="25px" />
 
 ### Wallet
 
-<img src="./Wallet.png" width="25px" height="25px" />
+<img src="./Economy/Wallet.png" width="25px" height="25px" />
 
 ### Casino Tokens:
 
-<img src="./CasinoTokens.png" width="25px" height="25px" />
+<img src="./Economy/CasinoTokens.png" width="25px" height="25px" />
 
 ## Error Emojis:
 
 ### No Command:
 
-<img src="./Error_Command_NotFound.png" width="25px" height="25px" />
+<img src="./Error/Command_NotFound.png" width="25px" height="25px" />
 
 ### Missing Permissions:
 
-<img src="./Error_Missing_Permissions.png" width="25px" height="25px" />
+<img src="./Error/Missing_Permissions.png" width="25px" height="25px" />
 
 ### Normal:
 
-<img src="./Error.png" width="25px" height="25px" />
+<img src="./Error/Normal.png" width="25px" height="25px" />
 
 
