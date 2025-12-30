@@ -1,6 +1,6 @@
 import Commands from './Commands'
 import SelectMenus from './SelectMenus'
-import Buttons from './Buttons
+import Buttons from './Buttons'
 
 const index = {
 Commands,
