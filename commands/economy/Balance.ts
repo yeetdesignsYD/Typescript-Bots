@@ -37,7 +37,7 @@ const command: Command = {
     `)
     .addFields(
       {
-        name: "**Wallet:**",
+        name: "**${Emojis.Economy.Wallet}Wallet:**",
         value: `$${wallet}`
       },
       {
