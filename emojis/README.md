@@ -4,27 +4,29 @@
 
 ### Balance Command Title:
 
-[!(/Balance_Title.png)]
+[!(/Balance_Title.png)](/BalanceTitle.png)
 
 ### Bank:
 
-[!(/Bank.png)]
+[!(/Bank.png)](/Bank.png)
 
 ### Wallet
 
-[!(/Wallet.png)]
+[!(/Wallet.png)](/Wallet.png)
 
 ### Casino Tokens:
-[!(/CasinoTokens.png)]
+[!(/CasinoTokens.png)](/CasinoTokens.png)
 
 ## Error Emojis:
 
-### No Command | No Permissions:
+### No Command:
 
-[!(/Error_V1.png)]
+[!(/Error_Command_NotFound.png)](/Error_Command_NotFound.png)
+
+[!(/Error_Missing_Permissions.png)](/Error_Missing_Permissions.png)
 
 ### Normal:
 
-[!(/Error_V2.png)]
+[!(/Error.png)](/Error.png)
 
 
