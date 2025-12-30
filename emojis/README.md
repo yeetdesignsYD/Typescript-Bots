@@ -20,11 +20,6 @@
 
 ## Economy Emojis:
 
-
-### Balance Command Title:
-
-<img src="./Economy/BalanceTitle.png" width="25px" height="25px" />
-
 ### Bank:
 
 <img src="./Economy/Bank.png" width="25px" height="25px" />
