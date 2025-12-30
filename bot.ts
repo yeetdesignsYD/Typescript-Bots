@@ -77,6 +77,6 @@ await Loader.loadCommands.Slash(client)
 
 await registerCommands()
 
-const token = process.env.TOKEN
+const token = process.env.DISCORD_TOKEN
 
 client.token(token)
