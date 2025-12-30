@@ -34,7 +34,7 @@
 
 ## Error Emojis:
 
-### No Command:
+### Command Not Found:
 
 <img src="./Error/Command_NotFound.png" width="150px" height="150px" />
 
