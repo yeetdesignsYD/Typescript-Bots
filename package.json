@@ -1,0 +1,25 @@
+{
+  "name": "typescript-economy-bot",
+  "version": "1.0.0",
+  "main": "bot.ts",
+    "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Thompson",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "discord-economy-super": "^1.7.7",
+    "quick.db": "^9.1.7",
+    "better-sqlite3": "^7.4.5"
+  },
+  "devDependencies": {
+  "@types/node": "^24.10.1",
+ "tsx": "^4.21.0",
+    "typescript": "~5.9.3"
+}
+}
